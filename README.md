@@ -4,7 +4,7 @@ Project "TUNIC"
 
 
 
-This project is based on another project, project Winlator @Glibc-Frost here is the page to the emulator: https://github.com/MrPhryaNikFrosty/Winlator-Frost, with this application we are runing "TUNIC".
+This project is based on another project, project Winlator @Glibc-Frost here is the page to the emulator: https://github.com/MrPhryaNikFrosty/Winlator-Frost, with this application we are going to run "TUNIC".
 ----------------------------------------------------------------------------------------------------------------------------
 Why did we chose "Winlator" and not another emulator on witch the game was released ?
 -----
@@ -25,7 +25,7 @@ INTALATION:
 2.Launch the app and wait for the installation process to finish.
 
 Third party apps are use these are the following:
-
+-------
 -buntu RootFs (Focal Fossa)
 
 -Wine (winehq.org)
