@@ -26,23 +26,32 @@ INTALATION:
 
 Third party apps are use these are the following:
 -------
--buntu RootFs (Focal Fossa)
+-buntu RootFs
+(Focal Fossa)
 
--Wine (winehq.org)
+-Wine
+(winehq.org)
 
--Box86/Box64 by ptitseb
+-Box86/Box64
+by ptitseb
 
--PRoot (proot-me.github.io)
+-PRoot
+(proot-me.github.io)
 
--Mesa (Turnip/Zink/VirGL) (mesa3d.org)
+-Mesa
+(Turnip/Zink/VirGL) (mesa3d.org)
 
--DXVK (github.com/doitsujin/dxvk)
+-DXVK
+(github.com/doitsujin/dxvk)
 
--VKD3D (gitlab.winehq.org/wine/vkd3d)
+-VKD3D
+(gitlab.winehq.org/wine/vkd3d)
 
--D8VK (github.com/AlpyneDreams/d8vk)
+-D8VK
+(github.com/AlpyneDreams/d8vk)
 
--CNC DDraw (github.com/FunkyFr3sh/cnc-ddraw)
+-CNC DDraw
+(github.com/FunkyFr3sh/cnc-ddraw)
 
 -Many thanks to ptitSeb (Box86/Box64), Danylo (Turnip), alexvorxx (Mods/Tips) and others. Thank you to all these people.
 ------------------------------------------------------------------------------------------------------------------------
@@ -55,7 +64,7 @@ MINIMUM:
 - RAM: Memory: 4GB
 
 
-- RECOMANDED
+RECOMANDED:
 - CPU: Snapdragon=(860-8Gen3)
 - GPU: All GPU's are supported
 - SSD: Memory: 2GB
