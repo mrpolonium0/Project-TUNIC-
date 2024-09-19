@@ -10,6 +10,39 @@ Why did we chose "Winlator" and not another emulator on witch the game was relea
 
 - One of the options was "Yuzu"emu. the game ran well BUT, the app is set to overclock the CPU, so there was good performance only if you set the ressolution to 0.25, witch kills the look of the game.
 
-- NOTE: Because the CPU is set to overclock, so your'e mobile device will heat, and even, overheat if used for too long. Now note that the best Gaphics driver to use to use on a low-end device is, its native device driver, it was tested for low-end devices, any type of ''Turnip'' drivers will make the games textures look bad, and not natural. 
+- NOTE: Because the CPU is set to overclock, your'e mobile device WILL heat, even if it's armed with the latest snapdragon, it can and also, overheat if used for too long. Now note that the best Gaphics driver to use on a low-end device (ex: snd 680-695), is the native device driver, it was tested for low-end devices, any type of ''Turnip'' drivers will make the games textures look bad, and not natural. 
 
-- There were more switch emulators on the list but for the same resons as "Yuzu" we wouldn't recomend.
+- There were more switch emulators on the list but for the same resons as "Yuzu" we wouldn't quite recomend.
+----------------------------------------------------------------------------------------------------------------------------
+What is winlator ?
+----------------------------------------------------------------------------------------------------------------------------
+Winlator is an Android application that lets you to run Windows (x86_64) applications with Wine and Box86/Box64.
+
+
+INTALATION: 
+----------------------------------------------------------------------------------------------------------------------------
+1.Download and install the APK (Winlator_7.1.apk) from GitHub Releases
+2.Launch the app and wait for the installation process to finish.
+
+Third party apps are use these are the following:
+
+-buntu RootFs (Focal Fossa)
+
+-Wine (winehq.org)
+
+-Box86/Box64 by ptitseb
+
+-PRoot (proot-me.github.io)
+
+-Mesa (Turnip/Zink/VirGL) (mesa3d.org)
+
+-DXVK (github.com/doitsujin/dxvk)
+
+-VKD3D (gitlab.winehq.org/wine/vkd3d)
+
+-D8VK (github.com/AlpyneDreams/d8vk)
+
+-CNC DDraw (github.com/FunkyFr3sh/cnc-ddraw)
+
+-Many thanks to ptitSeb (Box86/Box64), Danylo (Turnip), alexvorxx (Mods/Tips) and others. Thank you to all these people.
+------------------------------------------------------------------------------------------------------------------------
