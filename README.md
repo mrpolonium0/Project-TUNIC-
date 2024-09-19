@@ -79,7 +79,7 @@ RECOMANDED (All devices), exept everything under Snapdragon "4Gen1".
 
 -Graphics Driver Turnip 24.0.1
 
--DXVK : 1.5.5
+-DXVK : 2.2
 
 -Audio Driver: Alsa
 
