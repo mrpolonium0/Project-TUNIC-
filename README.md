@@ -85,5 +85,5 @@ RECOMANDED (All devices), exept everything under Snapdragon "4Gen1".
 -Box64 Preset: Compatibility (NOT TO PUT ON PERFORMANCE OR IT WILL CRASH)
 -Startup Selection: Normal
 
-Note: Dimensity CPU weren't tested and probably woudn't work
+Note: Dimensity CPU weren't tested and probably won't work
 -
