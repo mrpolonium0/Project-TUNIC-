@@ -76,13 +76,21 @@ RECOMANDED (All devices), exept everything under Snapdragon "4Gen1".
 -
 
 -Screen Size: 640x480 (4:3)
+
 -Graphics Driver Turnip 24.0.1
+
 -DXVK : 1.5.5
+
 -Audio Driver: Alsa
+
 -GPU Name: NVDIA Geforce GTX 1070-1080
+
 -Video Memory Size: 4046
+
 -DirectX: Leave as it is
+
 -Box64 Preset: Compatibility (NOT TO PUT ON PERFORMANCE OR IT WILL CRASH)
+
 -Startup Selection: Normal
 
 Note: Dimensity CPU weren't tested and probably won't work
