@@ -75,7 +75,7 @@ Settings :
 RECOMANDED (All devices), exept everything under Snapdragon "4Gen1".
 -
 
--Screen Size: 640x480 (4:3)
+-Screen Size: 640x480 (4:3) or whatever you manage to run it.
 
 -Graphics Driver Turnip 24.0.1
 
