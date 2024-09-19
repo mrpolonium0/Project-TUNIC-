@@ -4,10 +4,10 @@ Project "TUNIC"
 
 
 
-This project is based on another project, project Winlator @Glibc-Frost here is the page to the emulator: https://github.com/MrPhryaNikFrosty/Winlator-Frost, with this application we are going to run "TUNIC"
+This project is based on another project, project Winlator @Glibc-Frost here is the page to the emulator: https://github.com/MrPhryaNikFrosty/Winlator-Frost, with this application we are runing "TUNIC".
 ----------------------------------------------------------------------------------------------------------------------------
 Why did we chose "Winlator" and not another emulator on witch the game was released ?
-
+-----
 - One of the options was "Yuzu"emu. the game ran well BUT, the app is set to overclock the CPU, so there was good performance only if you set the ressolution to 0.25, witch kills the look of the game.
 
 - NOTE: Because the CPU is set to overclock, your'e mobile device WILL heat, even if it's armed with the latest snapdragon, it can and also, overheat if used for too long. Now note that the best Gaphics driver to use on a low-end device (ex: snd 680-695), is the native device driver, it was tested for low-end devices, any type of ''Turnip'' drivers will make the games textures look bad, and not natural. 
