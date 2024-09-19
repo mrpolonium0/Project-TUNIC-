@@ -1,4 +1,3 @@
-Project "TUNIC"
 
 ![capsule_616x353](https://github.com/user-attachments/assets/1a782388-f842-42f8-bb61-3a0933a78695) ![3952922-20220226022514_1](https://github.com/user-attachments/assets/8c838bac-e53c-4456-812c-a680d44fb0b5)
 
@@ -8,7 +7,7 @@ This project is based on another project, project Winlator @Glibc-Frost here is 
 ----------------------------------------------------------------------------------------------------------------------------
 Why did we chose "Winlator" and not another emulator on witch the game was released ?
 -----
-- One of the options was "Yuzu"emu. the game ran well BUT, the app is set to overclock the CPU, so there was good performance only if you set the ressolution to 0.25, witch kills the look of the game.
+- One of the options was "Yuzu"emu. the game ran well BUT, the app is set to overclock the CPU, so there was good performance only if you set the resolution to 0.25, witch kills the look of the game.
 
 - NOTE: Because the CPU is set to overclock, your'e mobile device WILL heat, even if it's armed with the latest snapdragon, it can and also, overheat if used for too long. Now note that the best Gaphics driver to use on a low-end device (ex: snd 680-695), is the native device driver, it was tested for low-end devices, any type of ''Turnip'' drivers will make the games textures look bad, and not natural. 
 
@@ -73,6 +72,18 @@ RECOMANDED:
 - ---------------------------------------------------------------------------------------------------------------------- 
 Settings :
 ------------------------------------------------------------------------------------------------------------------------
-RECOMANDED (All devices)
+RECOMANDED (All devices), exept everything under Snapdragon "4Gen1".
+-
 
+-Screen Size: 640x480 (4:3)
+-Graphics Driver Turnip 24.0.1
+-DXVK : 1.5.5
+-Audio Driver: Alsa
+-GPU Name: NVDIA Geforce GTX 1070-1080
+-Video Memory Size: 4046
+-DirectX: Leave as it is
+-Box64 Preset: Compatibility (NOT TO PUT ON PERFORMANCE OR IT WILL CRASH)
+-Startup Selection: Normal
+
+Note: Dimensity CPU weren't tested and probably woudn't work
 -
