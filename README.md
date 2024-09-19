@@ -46,3 +46,23 @@ Third party apps are use these are the following:
 
 -Many thanks to ptitSeb (Box86/Box64), Danylo (Turnip), alexvorxx (Mods/Tips) and others. Thank you to all these people.
 ------------------------------------------------------------------------------------------------------------------------
+Requirements
+------------------------------------------------------------------------------------------------------------------------
+MINIMUM:
+- CPU: Snapdragon=(685-720)
+- GPU: Any GPU is supported
+- SSD: Memory: 2GB
+- RAM: Memory: 4GB
+
+
+- RECOMANDED
+- CPU: Snapdragon=(860-8Gen3)
+- GPU: All GPU's are supported
+- SSD: Memory: 2GB
+- RAM: Memory: 12GB
+- ---------------------------------------------------------------------------------------------------------------------- 
+Settings :
+------------------------------------------------------------------------------------------------------------------------
+RECOMANDED (All devices)
+
+-
