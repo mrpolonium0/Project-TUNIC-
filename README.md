@@ -58,15 +58,15 @@ by ptitseb
 Requirements
 ------------------------------------------------------------------------------------------------------------------------
 MINIMUM:
-- CPU: Snapdragon=(685-720)
-- GPU: Any GPU is supported
+- CPU: Snapdragon (685-720)
+- GPU: All Adreno GPU's are supported
 - SSD: Memory: 2GB
 - RAM: Memory: 4GB
 
 
 RECOMANDED:
-- CPU: Snapdragon=(860-8Gen3)
-- GPU: All GPU's are supported
+- CPU: Snapdragon (860-8Gen3)
+- GPU: All Adreno GPU's are supported
 - SSD: Memory: 2GB
 - RAM: Memory: 12GB
 - ---------------------------------------------------------------------------------------------------------------------- 
