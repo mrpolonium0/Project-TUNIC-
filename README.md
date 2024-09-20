@@ -22,7 +22,7 @@ Winlator is an Android application that lets you to run Windows (x86_64) applica
 
 INSTALATION: 
 ----------------------------------------------------------------------------------------------------------------------------
-1.Download and install the APK (Winlator_7.1.apk) from GitHub Releases
+1.Download and install the APK (Winlator @Glibc-Frost.apk) from GitHub Releases
 
 2.Launch the app and wait for the installation process to finish.
 
@@ -76,6 +76,8 @@ Settings :
 ------------------------------------------------------------------------------------------------------------------------
 RECOMANDED (All devices), exept everything under Snapdragon "4Gen1".
 -
+
+-Recomanded Version: Winlator @Glibc-Frost V.7.1.2
 
 -Screen Size: 640x480 (4:3) or whatever you manage to run it.
 
