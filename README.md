@@ -11,9 +11,9 @@ Why did we chose "Winlator" and not another emulator on witch the game was relea
 -----
 - One of the options was "Yuzu"emu. the game ran well BUT, the app is set to overclock the CPU, so there was good performance only if you set the resolution to 0.25, witch kills the look of the game.
 
-- NOTE: Because the CPU is set to overclock, your'e mobile device WILL heat, even if it's armed with the latest snapdragon, it can and also, overheat if used for too long. Now note that the best Gaphics driver to use on a low-end device (ex: snd 680-695), is the native device driver, it was tested for low-end devices, any type of ''Turnip'' drivers will make the games textures look bad, and not natural. 
+- NOTE: Because the CPU is set to overclock, your'e mobile device WILL heat, even if it's armed with the latest snapdragon, it can also, overheat if used for too long. Now note that the best Gaphics driver to use on a low-end device (ex: snd 680-695), is the native device driver, it was tested for low-end devices, any type of ''Turnip'' drivers will make the games textures look bad, and not natural. 
 
-- There were more switch emulators on the list but for the same resons as "Yuzu" we wouldn't quite recomend.
+- There were more switch emulators on the list but for the same resons as "Yuzu" we wouldn't recomend.
 ----------------------------------------------------------------------------------------------------------------------------
 What is winlator ?
 ----------------------------------------------------------------------------------------------------------------------------
@@ -99,3 +99,7 @@ RECOMANDED (All devices), exept everything under Snapdragon "4Gen1".
 
 Note: Dimensity CPU's weren't tested and probably won't work
 -
+THANKS
+--
+Thanks to all the developer of "Tunic" this game is prefect from the looks to the bosses EVERYTHING !
+Thank you Finji fo creating this masterpiece, and to all the other developers thank you all !
